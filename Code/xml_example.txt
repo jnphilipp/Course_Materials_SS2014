@@ -1,0 +1,1 @@
+﻿<xml><book id='Genesis'<chapter id='1'><verse id='1'>In the beginning when God created the heavens and the earth,</verse><verse id='2'>the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters.</verse></chapter></book></xml>
