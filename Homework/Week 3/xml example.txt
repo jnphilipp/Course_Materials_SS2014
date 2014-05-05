@@ -1,0 +1,1 @@
+﻿<w id = ‘Gen.1.1.1’ translit = ‘bə•rê•šîṯ’ eng = ‘in the beginning’ strongs = ‘7225: beginning, chief’ pos = ‘noun’>בְּרֵאשִׁ֖ית</w>
