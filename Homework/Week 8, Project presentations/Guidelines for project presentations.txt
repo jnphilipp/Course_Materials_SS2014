@@ -3,8 +3,8 @@ How to organize your presentations
 I.	Introduction
 	A.	Introduce us to your corpus
 		1.	What information does it contain?
-		3.	How large is it?
-		4.	How accessible is it?  E.g., is it open-access/source?
+		2.	How large is it?
+		3.	How accessible is it?  E.g., is it open-access/source?
 	B.	Introduce us to your questions
 		1.	What questions are you asking?
 		2.	Why are you asking these questions?
